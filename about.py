@@ -37,7 +37,8 @@ st.markdown("""
 st.subheader("Author")
 
 st.markdown("""
-Created by **F5**
+Created by **Fardhan Roiza (F5)**
 
 This project was developed as part of a data visualization and dashboard portfolio using Python.
 """)
+
