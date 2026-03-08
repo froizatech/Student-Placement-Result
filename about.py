@@ -19,7 +19,7 @@ st.subheader("Features")
 st.markdown("""
 - 🔎 Placement result search by Student ID  
 - 📊 Interactive data visualizations  
-- 🎛 Filtering by genre and degree  
+- 🎛 Filtering by gender and degree  
 - 📈 Distribution charts for age, branch, CGPA, and placement status  
 """)
 
@@ -41,4 +41,5 @@ Created by **Fardhan Roiza (F5)**
 
 This project was developed as part of a data visualization and dashboard portfolio using Python.
 """)
+
 
